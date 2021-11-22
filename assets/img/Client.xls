@@ -1,0 +1,115 @@
+<table>
+
+<thead>
+<tr>
+    <th style="border:1px solid black;text-align:center">Identifiant</th>
+    <th style="border:1px solid black;text-align:center">Nom</th>
+    <th style="border:1px solid black;text-align:center">Contact</th>
+    <th style="border:1px solid black;text-align:center">Email</th>
+    <th style="border:1px solid black;text-align:center">Adresse</th>
+    <th style="border:1px solid black;text-align:center">Status</th>
+    <th style="border:1px solid black;text-align:center">Organisation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">12</td>
+					<td  style="border:1px solid black;text-align:center">Mlle Cynthia</td>
+					<td  style="border:1px solid black;text-align:center">0339119515</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">9</td>
+					<td  style="border:1px solid black;text-align:center">Mlle Domoina</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">10</td>
+					<td  style="border:1px solid black;text-align:center">Mme kelly</td>
+					<td  style="border:1px solid black;text-align:center">0340459527</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">8</td>
+					<td  style="border:1px solid black;text-align:center">Mme Sa</td>
+					<td  style="border:1px solid black;text-align:center">0342622209</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">2</td>
+					<td  style="border:1px solid black;text-align:center">Mme Tiana</td>
+					<td  style="border:1px solid black;text-align:center">0337054298 /0340381997</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">1</td>
+					<td  style="border:1px solid black;text-align:center">Mr Aina</td>
+					<td  style="border:1px solid black;text-align:center">0337054298</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">7</td>
+					<td  style="border:1px solid black;text-align:center">Mr Gregoire</td>
+					<td  style="border:1px solid black;text-align:center">0349260899</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">15</td>
+					<td  style="border:1px solid black;text-align:center">Mr Jhon</td>
+					<td  style="border:1px solid black;text-align:center">0346804717</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center">Ivato</td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">3</td>
+					<td  style="border:1px solid black;text-align:center">Mr Ramananjatovo</td>
+					<td  style="border:1px solid black;text-align:center">0348468661</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center">67 Ha</td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">13</td>
+					<td  style="border:1px solid black;text-align:center">Mr Tefy</td>
+					<td  style="border:1px solid black;text-align:center">0346804717</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center"></td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+<tr>
+                    <td  style="border:1px solid black;text-align:center">14</td>
+					<td  style="border:1px solid black;text-align:center">Mr Thompson</td>
+					<td  style="border:1px solid black;text-align:center">0346804717</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+                    <td  style="border:1px solid black;text-align:center">Fianarantsoa</td>
+					<td  style="border:1px solid black;text-align:center">Non remisé</td>
+					<td  style="border:1px solid black;text-align:center"></td>
+					</tr>
+</tbody>
+</table>
